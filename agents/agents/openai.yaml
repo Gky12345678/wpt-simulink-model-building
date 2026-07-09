@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPT Simulink Model Building"
+  short_description: "Build clean WPT/BWPT Simulink power-electronics models."
+  default_prompt: "Use this skill to build, organize, or review a WPT/BWPT Simulink or Simscape Electrical model with clear topology, explicit power devices, clean auxiliary subsystems, measurement placement, parameter setup, layout, and validation readiness."
